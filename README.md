@@ -1,2 +1,2 @@
 # mtd_db_jun26
-This repository was created for the database training delivered by Nitin from mtd
+This is for learning of data base management system where I'm learning mongodb and sql from nithin, he is from mtd
